@@ -12,6 +12,7 @@ import androidx.lifecycle.ViewModelProvider
 import com.k2e7.e0s.databinding.ActivityMainBinding
 import com.k2e7.e0s.dialogs.AdvertisingDialog
 import com.k2e7.e0s.dialogs.DiscoveringDialog
+import com.k2e7.xsensory.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 

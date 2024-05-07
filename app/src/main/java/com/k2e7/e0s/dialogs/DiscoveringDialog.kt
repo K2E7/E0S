@@ -21,6 +21,7 @@ import com.google.android.gms.nearby.connection.PayloadTransferUpdate
 import com.google.android.gms.nearby.connection.Strategy
 import com.k2e7.e0s.databinding.LayoutSearchingToReceiveBinding
 import com.k2e7.e0s.helpers.FilesFetcher
+import com.k2e7.xsensory.databinding.LayoutSearchingToReceiveBinding
 
 class DiscoveringDialog(private val context: Context) {
 

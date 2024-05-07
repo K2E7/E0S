@@ -21,6 +21,7 @@ import com.google.android.gms.nearby.connection.PayloadTransferUpdate
 import com.google.android.gms.nearby.connection.Strategy
 import com.k2e7.e0s.AppViewModel
 import com.k2e7.e0s.databinding.LayoutSearchingToSendBinding
+import com.k2e7.xsensory.databinding.LayoutSearchingToSendBinding
 import kotlinx.coroutines.launch
 import java.io.File
 
